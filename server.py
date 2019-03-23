@@ -89,8 +89,7 @@ def following(name):
                            name=name)
 
 
-i = sys.argv.index('server:app')
-twitter_auth_filename = sys.argv[i + 1]
+twitter_auth_filename = sys.argv[1]
 api = authenticate(twitter_auth_filename)
 
 if __name__ == '__main__':
