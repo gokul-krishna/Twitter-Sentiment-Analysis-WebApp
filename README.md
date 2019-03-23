@@ -6,6 +6,6 @@ An example URL `/realdonaldtrump` yields:
 
 <img src=imgs/trump-tweets.png width=750>
 
-URL to display the list of users followed by a given user, such as `/following/the_antlr_guy`:
+URL to display the list of users followed by a given user, such as `/following/realdonaldtrump`:
 
-<img src=figures/trump-follows.png width=350>
+<img src=imgs/trump-follows.png width=350>
